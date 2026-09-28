@@ -1,0 +1,85 @@
+# Träningslogg – kreativt skrivande
+
+Uppdaterad: 2026-09-28. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+
+## 2026-09-01 – Den felaktiga kartan
+
+- **Aktivitet:** Första utkast.
+- **Fokus:** Idégenerering, scenkonflikt och oåterkalleligt beslut.
+- **Utfall:** Stark intrigkrok och slutbild. Konfrontationen behövde utvecklas och språket stramas.
+- **Nivå:** Dagens skrivindex 10/20; stabil nivå ännu inte bedömd.
+- **Nästa fokus då:** Ge motståndaren ett trovärdigt argument.
+
+## 2026-09-02 – Den nödvändiga lögnen
+
+- **Aktivitet:** Första utkast.
+- **Fokus:** Trovärdig motståndare, moralisk konflikt, dialog och kroppsligt gestaltad tvekan.
+- **Utfall:** Stark personlig konflikt och verksam reaktion där träningen styr kroppen. Malkes sakliga argument och kartans koppling till krigsrisken behövde tydliggöras.
+- **Nivå:** Dagens skrivindex 10/20; försiktigt uppskattad stabil nivå omkring 10/20.
+- **Nästa fokus då:** Bygg en tydlig orsakskedja bakom motståndarens argument.
+
+## 2026-09-13 – Den förbjudna begravningen
+
+- **Aktivitet:** Första utkast.
+- **Fokus:** Offentlig moralisk konflikt, trovärdig motpart och oåterkalleligt beslut.
+- **Utfall:** Stark ritual, känslomässiga bilder och dramatisk slutpunkt. Motpartens argument och Kals väg till mordet behövde utvecklas.
+- **Nivå:** Dagens skrivindex 11/20; stabil nivå cirka 10–11/20.
+- **Nästa fokus då:** Ge motparten konkret bevis och en orsakskedja som försvårar Kals val.
+
+## 2026-09-15 – Den förbjudna begravningen, fullständig omskrivning
+
+- **Fokus:** Trovärdig motpart, moralisk orsakskedja, förebådande och oåterkalleligt beslut.
+- **Utfall:** Ett försvarbart fredsargument stärkte konflikten; Kal karakteriserades tydligare och svärdet och ekplantan blev återkommande motiv. Mordbeslutet behövde göras mer medvetet.
+- **Nivå:** Dagens skrivindex 12/20; stabil nivå cirka 11/20.
+- **Nästa fokus då:** Visa ögonblicket där Kal förstår följderna, kan avstå och ändå väljer våldet.
+
+## 2026-09-15 – Den förbjudna begravningen, riktad omskrivning
+
+- **Fokus:** Medvetet våldsval, moralisk vändpunkt och kroppsligt förberedd handling.
+- **Utfall:** Kal fick möjlighet att avstå och valde ändå hatet; beslutet blev tydligt. Koreografi, känslostapling och språklig precision återstod.
+- **Nivå:** Dagens skrivindex 13/20; stabil nivå cirka 11–12/20.
+- **Nästa fokus då:** Behåll den dramatiska lösningen och strama utförandet.
+
+## 2026-09-17 – Nyckeln som ingen får be om
+
+- **Aktivitet:** Scenövning (loggkortets datum; texten diskuterades även 2026-09-16).
+- **Fokus:** Subtext genom handling, fysisk gestaltning, moralisk konflikt och konkret scenföremål.
+- **Utfall:** Nyckelknippan och kroppsliga detaljer bar undertext; familjelojalitet mötte institutionell plikt. Andra halvan blev för explicit och Miras slutval behövde bli aktivare.
+- **Nivå:** Dagens skrivindex 12/20; stabil nivå cirka 11–12/20.
+- **Nästa fokus då:** Ge Mira en verklig möjlighet att hindra Toren.
+
+## 2026-09-23 – Tre sekunder att ingripa, längre scen
+
+- **Fokus:** Moraliskt val, verklig möjlighet att handla annorlunda, POV, scenföremål och lojalitetskonflikt.
+- **Utfall:** Dokumentet skapade dubbel moralisk konflikt. Halsduken och kroppsvanorna fungerade; POV-bytet behövde markeras. Seras möjlighet att välja motsatsen och prosans precision behövde stärkas.
+- **Nivå:** Dagens skrivindex 13/20; stabil nivå cirka 11–12/20.
+- **Nästa fokus då:** Visa att Sera först försöker rädda dokumentet men sedan väljer att bränna det.
+
+## 2026-09-23 – Tre sekunder att ingripa, riktad omskrivning
+
+- **Fokus:** Synliggöra ett verkligt alternativ före moraliskt val.
+- **Utfall:** Sera gick bort från elden och tryckte dokumentet mot bröstet innan hon brände det. Valet blev mer medvetet; slutrepliken förbättrades. En överstor religiös liknelse och språklig precision återstod.
+- **Nivå:** Hela scenen cirka 13/20; omskrivet slut 16/20 för uppgiftens mål; stabil nivå omkring 11–12/20.
+- **Nästa fokus då:** Minska Jorans inre förklaring utan att förlora konflikten.
+
+## 2026-09-25 – Det han inte får förklara
+
+- **Aktivitet:** Första utkast.
+- **Fokus:** Moraliskt avgörande i handling, dialog och utvalda detaljer utan överförklaring.
+- **Utfall:** Maras och Edrans rörelser gjorde konflikten fysisk. Maras klass- och rättviseargument fördjupade dilemmat. Flera kroppsliga och känslomässiga markörer gjorde samma arbete; det starkare slutvalet, att följa systern in, behövde ett tydligare tillfälle att avstå.
+- **Nivå:** Dagens prestation cirka 14/20; stabil nivå omkring 11–12/20.
+- **Nästa fokus då:** Riktad omskrivning av slutet med färre reaktioner och tydligare motsatsval.
+
+## 2026-09-28 – Han får fortfarande gå
+
+- **Aktivitet:** Scenövning och riktad omskrivning av beslutsögonblicket.
+- **Fokus:** Pacing vid ett avgörande val genom selektiv gestaltning; ge ett verkligt alternativ utrymme utan staplad gestaltning eller inre förklaring.
+- **Utfall:** Första utkastet hade stark moralisk konflikt och tydlig Iven men skyndade genom valet. I omskrivningen förde patrullen Rask allt längre nedför serpentintrappan, medan stenen, batongen och miljön bar tid och karaktär. ”Iven började springa” blev ett synligt beslut. Våldet efteråt sammanfattades ännu snabbt, och någon liknelse förklarade Ivens värdering.
+- **Nivå:** Första utkastet cirka 14/20 som scen och 11–12/20 i huvudfärdigheten; omskrivningen cirka 16/20 i huvudfärdigheten. Försiktigt uppskattad stabil nivå omkring 12–13/20.
+- **Nästa fokus:** Pröva valets dramatiska tid i en ny scen utan att i förväg ange konstruktionen; utveckla konkret handlingskoreografi som sekundärt mål.
+
+## Läsning av utvecklingen
+
+De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Det återkommande problemet är att första utkast ibland förklarar eller skyndar förbi själva vändpunkten, trots stark uppbyggnad. Den senaste omskrivningen visar en effektiv lösning med avstånd, tid och föremål. Nästa nya scen får visa hur väl den färdigheten bär utan riktad instruktion.
+
+`Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
