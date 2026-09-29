@@ -86,8 +86,16 @@ Uppdaterad: 2026-09-29. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Nivå:** Första utkastet cirka 12–13/20 som scen och 10–11/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20.
 - **Nästa fokus:** En riktad omskrivning från hjulbrottet till det avgörande beslutet, där förändringar i situationen ger valet tid och där den första handlingens följd syns.
 
+## 2026-09-29 – Vadstället, riktad omskrivning
+
+- **Aktivitet:** Riktad omskrivning efter respons på valögonblicket.
+- **Fokus:** Visa hur Ramas misslyckade lyft får Pjotr att ompröva sin plan och ge hotet en konkret plats i scenen.
+- **Utfall:** Hallas ryttare syns nu på slätten och Rama får ett tydligare uppdrag. Steget mot Rygar visar dock främst den redan beslutade planen, eftersom Rygar är Pjotrs häst. En halvtimmes försprång gör inte färd tillsammans synligt omöjlig, och det långa talet håller den fysiska situationen stilla. Slutets ritt saknar fortfarande en första konkret följd. Omskrivningen visar ett användbart försök med ny yttre information; samma pacingfråga får prövas i en ny scen i stället för genom fortsatt putsning här.
+- **Nivå:** Omskrivningen cirka 12–13/20 som scen och 11–12/20 i huvudfärdigheten. Stabil nivå omkring 12–13/20, oförändrad.
+- **Nästa fokus:** I en ny scen: låt förändringar påverka handlingsmöjligheter medan valet ännu är öppet, och visa följden av den första avgörande handlingen.
+
 ## Läsning av utvecklingen
 
-De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Det återkommande problemet är att första utkast ibland förklarar eller skyndar förbi själva vändpunkten, trots stark uppbyggnad. Den senaste omskrivningen visar en effektiv lösning med avstånd, tid och föremål. Nästa nya scen får visa hur väl den färdigheten bär utan riktad instruktion.
+De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Det återkommande problemet är att första utkast ibland förklarar eller skyndar förbi själva vändpunkten, trots stark uppbyggnad. I den senaste övningen blev hotet synligt i omskrivningen, men planen var redan beslutad när hotet kom in i scenen. Nästa nya scen får pröva om förändringar kan påverka valet medan det ännu är öppet.
 
 `Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
