@@ -1,6 +1,6 @@
 # Träningslogg – kreativt skrivande
 
-Uppdaterad: 2026-09-28. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+Uppdaterad: 2026-09-29. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
 
 ## 2026-09-01 – Den felaktiga kartan
 
@@ -77,6 +77,14 @@ Uppdaterad: 2026-09-28. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Utfall:** Första utkastet hade stark moralisk konflikt och tydlig Iven men skyndade genom valet. I omskrivningen förde patrullen Rask allt längre nedför serpentintrappan, medan stenen, batongen och miljön bar tid och karaktär. ”Iven började springa” blev ett synligt beslut. Våldet efteråt sammanfattades ännu snabbt, och någon liknelse förklarade Ivens värdering.
 - **Nivå:** Första utkastet cirka 14/20 som scen och 11–12/20 i huvudfärdigheten; omskrivningen cirka 16/20 i huvudfärdigheten. Försiktigt uppskattad stabil nivå omkring 12–13/20.
 - **Nästa fokus:** Pröva valets dramatiska tid i en ny scen utan att i förväg ange konstruktionen; utveckla konkret handlingskoreografi som sekundärt mål.
+
+## 2026-09-29 – Vadstället, första utkast
+
+- **Aktivitet:** Första utkast och diagnostisk respons.
+- **Fokus:** Dramatisk tid kring valet i en ny, fysisk scen; selektiv gestaltning och konkret följdhandling.
+- **Utfall:** Pjotrs och Remas relation bär scenen, särskilt det avbrutna steget och deras olika hälsningar. Beslutet att skiljas uttalas direkt efter hjulbrottet; de följande replikerna upprepar främst att de inte kan rida tillsammans. Hotets närmande förändrar ännu inte situationen synligt, och slutets ritt saknar omedelbar konkret följd. Remas svårighet att lyfta Lyri väcker också en praktisk fråga om hur han ska hålla henne kvar på hästen.
+- **Nivå:** Första utkastet cirka 12–13/20 som scen och 10–11/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20.
+- **Nästa fokus:** En riktad omskrivning från hjulbrottet till det avgörande beslutet, där förändringar i situationen ger valet tid och där den första handlingens följd syns.
 
 ## Läsning av utvecklingen
 
