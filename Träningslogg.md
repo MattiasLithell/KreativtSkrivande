@@ -1,6 +1,6 @@
 # Träningslogg – kreativt skrivande
 
-Uppdaterad: 2026-10-04. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+Uppdaterad: 2026-10-05. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
 
 ## 2026-09-01 – Den felaktiga kartan
 
@@ -102,8 +102,16 @@ Uppdaterad: 2026-10-04. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Nivå:** Första utkastet cirka 12–13/20 som scen och 10–11/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20.
 - **Nästa fokus:** En riktad omskrivning av vändpunkten där Bergs alternativ förblir öppna medan villkoren ändras, följd av en konkret och synlig konsekvens.
 
+## 2026-10-05 – Före ridån, riktad omskrivning
+
+- **Aktivitet:** Riktad omskrivning av vändpunkten.
+- **Fokus:** Dramatisk tid medan Bergs val är öppet och en synlig följd av hans första avgörande handling.
+- **Utfall:** Berg överväger nu en enkel ändring av slutet innan han väljer, och Florences avfärd blir en synlig följd av beskedet. Mellan ultimatum och beslut förändras dock främst Bergs tankar om Florence; rastens slut ger tid men inget nytt villkor som förskjuter valet. Finansieringens betydelse stannar i bakgrunden, vilket gör beslutets kostnad mindre tydlig i stunden. Den riktade omskrivningen avslutas här.
+- **Nivå:** Omskrivningen cirka 13/20 som scen och 12–13/20 i huvudfärdigheten. Stabil nivå fortsatt omkring 12–13/20.
+- **Nästa fokus:** Pröva i en ny scen hur ett öppet val påverkas av förändrade yttre villkor innan huvudpersonen handlar.
+
 ## Läsning av utvecklingen
 
-De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Det återkommande problemet är att första utkast ibland skyndar förbi själva vändpunkten, trots stark uppbyggnad. I både Vadstället och Före ridån kommer en ny omständighet främst efter att ett beslut redan fattats. Nästa steg är att pröva om förändringar kan påverka valet medan det ännu är öppet och om handlingens första följd blir synlig.
+De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Det återkommande problemet är att första utkast ibland skyndar förbi själva vändpunkten, trots stark uppbyggnad. I både Vadstället och Före ridåns första utkast kommer en ny omständighet främst efter att ett beslut redan fattats. Den senaste omskrivningen visar följden av Bergs beslut, men förhållandena omkring honom förändras ännu inte medan valet är öppet. Nästa steg är att pröva detta i en ny scen.
 
 `Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
