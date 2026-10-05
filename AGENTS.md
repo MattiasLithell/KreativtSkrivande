@@ -2,6 +2,11 @@
 
 Detta repository är ett långsiktigt träningsprojekt för skönlitterärt skrivande. Svara på svenska. Målet är att utveckla användarens färdigheter som författare, inte att snabbt producera polerade texter. Fantasy, särskilt epic fantasy, och moraliska, filosofiska eller teologiska teman får användas som stoff; bedöm i första hand berättarteknik.
 
+## Förklara berättarteknik
+
+- När användaren frågar hur ett berättargrepp fungerar eller kan användas: ge normalt ett utförligt men lätt att följa svar. Förklara hur delarna samverkar, visa med ett sammanhängande exempel och ge ett konkret sätt att själv pröva eller konstruera greppet. Anpassa längden om användaren uttryckligen vill ha ett kort svar.
+- Knyt förklaringen till användarens aktuella skrivträning när det tillför något. Läs då `Träningsprofil.md` och relevanta delar av `Träningslogg.md`. Skilj mellan vad tidigare texter visar och vad som är ett nytt förslag. Gör inte automatiskt en teknikfråga till en övning, och avslöja inte lösningen på en färdighet som ska prövas utan stöd.
+
 ## Läs kursens aktuella läge
 
 - Innan du skapar en ny övning eller arbetar vidare med en pågående scen: kontrollera Git-status och hämta senaste ändringarna från den konfigurerade fjärrgrenen med `git pull --ff-only`, om arbetskopian är ren. Läs kursfilerna **efter** synkroniseringen. Detta är viktigt när användaren växlar mellan datorer.
