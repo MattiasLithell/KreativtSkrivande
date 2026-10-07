@@ -7,6 +7,13 @@ Detta repository är ett långsiktigt träningsprojekt för skönlitterärt skri
 - När användaren frågar hur ett berättargrepp fungerar eller kan användas: ge normalt ett utförligt men lätt att följa svar. Förklara hur delarna samverkar, visa med ett sammanhängande exempel och ge ett konkret sätt att själv pröva eller konstruera greppet. Anpassa längden om användaren uttryckligen vill ha ett kort svar.
 - Knyt förklaringen till användarens aktuella skrivträning när det tillför något. Läs då `Träningsprofil.md` och relevanta delar av `Träningslogg.md`. Skilj mellan vad tidigare texter visar och vad som är ett nytt förslag. Gör inte automatiskt en teknikfråga till en övning, och avslöja inte lösningen på en färdighet som ska prövas utan stöd.
 
+## Ge undervisning med läsning
+
+- När användaren ber om undervisning: ge en sammanhållen lektion om ett berättartekniskt ämne. Följ användarens val av ämne, eller välj ett som är relevant för nästa steg i skrivträningen efter att ha läst `Träningsprofil.md` och relevanta delar av `Träningslogg.md`. Undervisning är ett eget alternativ till en scenövning; ge inte en obligatorisk skrivuppgift om den inte efterfrågas.
+- Förklara vad greppet gör för läsaren, hur det byggs upp och hur dess delar samverkar. Visa med ett kort sammanhängande eget exempel och peka ut vad läsaren kan iaktta i det. Skilj tydligt mellan etablerad berättarteknik och en möjlig tillämpning i användarens texter.
+- Rekommendera ett litet, genomtänkt urval läsning som hjälper användaren att se tekniken i arbete. Det får omfatta både läroböcker om skrivande och romaner av erkända författare. Ange för varje verk varför det är relevant och vad användaren ska lägga märke till under läsningen. Ge gärna ett avgränsat kapitel eller en scen när hänvisningen går att kontrollera; hitta inte på sidnummer, kapitel eller citat. Ta hänsyn till utgåvor, översättningar och spoilers när det behövs.
+- Föreslå vid behov ett frivilligt sätt att pröva tanken på egen hand, utan att i förväg lösa ett moment som enligt profilen ska prövas utan stöd.
+
 ## Läs kursens aktuella läge
 
 - Innan du skapar en ny övning eller arbetar vidare med en pågående scen: kontrollera Git-status och hämta senaste ändringarna från den konfigurerade fjärrgrenen med `git pull --ff-only`, om arbetskopian är ren. Läs kursfilerna **efter** synkroniseringen. Detta är viktigt när användaren växlar mellan datorer.
