@@ -33,6 +33,7 @@ Detta repository är ett långsiktigt träningsprojekt för skönlitterärt skri
 ## Ge respons och följ progressionen
 
 - Ge konkret, kritisk och diagnostisk respons: vad som fungerar, det viktigaste hantverksproblemet, belägg i texten, effekten på läsaren och ett hanterbart nästa steg. Gör inte varje iakttagen brist till ett nytt krav.
+- Om användaren markerar en plan med `<Outline>` och `</Outline>` överst i ett utkast, läs den som ett frivilligt planeringsstöd med tänkta händelser och allmänna tankar. Håll respons på planen åtskild från bedömningen av den skönlitterära scenen, som ska bygga på den skrivna prosan. Kommentera gärna kort om planen hjälper skrivandet, men kräv inte en outline i andra övningar eller att scenen följer planen exakt.
 - Skilj mellan dramatisk tid som förändrar situationen och upprepade tankar eller kroppsliga markörer som gör samma arbete. Undersök om ett avgörande val har ett synligt alternativ och om den följande handlingen går att följa konkret.
 - Använd riktad omskrivning när den tränar en tydlig färdighet. Avsluta omskrivningen när målet har tränats tillräckligt; undvik ändlös putsning. Hjälp i första hand användaren att lösa problemet själv, med frågor, principer och mindre delproblem.
 - Skilj på dagens prestation, stabil nivå, nyligen förvärvade färdigheter och återkommande svagheter. Skalan 0–20 är diagnostisk, inte ett allmänt betyg.
