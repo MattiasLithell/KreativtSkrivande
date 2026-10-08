@@ -4,21 +4,23 @@ Den här guiden gäller stunden **innan** en handling gör valet svårt att ta t
 
 ## Grundprincip
 
-Att dra ut på ett beslutsögonblick betyder inte att skriva fler tankar. Det betyder att låta läsaren uppleva **tid då personen ännu kan välja annorlunda** och då något under tiden förändras: ett avstånd, en möjlighet, en kostnad, en upplysning eller en annan persons handling.
+Att dra ut på ett beslutsögonblick betyder att låta läsaren uppleva **tid då personen ännu kan välja annorlunda**. Ibland förändras något utanför personen. Ibland ligger alla fakta och alternativ fast, medan personen närmar sig en av handlingarna, möter dess redan kända kostnad och till slut accepterar eller avvisar den. Även motståndet mot att göra något man redan vet att man vill göra kan bära en scen.
 
-Ett användbart förlopp är:
+Två möjliga förlopp är:
 
-> Öppet val → en förändring → personen försöker förstå eller påverka läget → ännu en förändring → första avgörande handling → synlig följd.
+> **Förändrade villkor:** Öppet val → något i situationen ändras → personen försöker förstå eller påverka läget → första avgörande handling → synlig följd.
+>
+> **Fasta villkor:** Öppet val → personen närmar sig en handling → en redan känd kostnad blir konkret för henne → hon kan ännu avstå → första avgörande handling → synlig följd.
 
-Alla steg behövs inte i varje scen. Ett ögonblick kan också vara kort. Längden ska motsvara det som faktiskt händer.
+Det här är möjligheter, inte obligatoriska steg. Ett ögonblick kan också vara kort. Varje extra stycke behöver ge läsaren något mer än att personen fortfarande tvekar.
 
 ## Konstruera scenen bakifrån
 
 1. **Skriv valets två vägar i arbetsanteckningar.** Vad kan personen faktiskt göra *nu*? Vad kostar båda vägarna? Båda måste inte vara lika goda, men den väg personen avstår från behöver vara möjlig och begriplig.
 2. **Bestäm den första handling som avgör saken.** Ett ord, en underskrift, en rörelse, ett föremål som lämnas över. Skriv också den första märkbara följden. Då vet du vart ögonblicket leder.
-3. **Placera något i scenen som kan ändra villkoren medan valet är öppet.** En annan person rör sig, ett föremål går sönder, en dörr håller på att stängas, ny information blir synlig. En klocka är bara verksam om tiden påverkar vad som fortfarande går att göra.
-4. **Välj högst ett par mellanled som gör olika arbete.** Det ena kan göra ett alternativ dyrare; det andra kan göra det svårare att genomföra. Om två stycken bara säger »hon tvekade« på olika sätt räcker ofta ett.
-5. **Ge tanken en uppgift.** Låt den räkna ut något, pröva en plan, rätta en felaktig tolkning eller avslöja vad personen värderar. Om tanken bara återger dilemmat som läsaren redan förstår kan den strykas.
+3. **Välj vad som bär tiden.** Yttre händelser kan ändra villkoren. Om villkoren står stilla kan tiden i stället ligga i ett försök att handla, en tänkt förklaring till den som drabbas eller en konkret föreställning om följden. Inget måste inträffa utifrån.
+4. **Välj ett par mellanled som gör olika arbete.** Det ena kan visa lockelsen i den väg personen avstår från; det andra kan visa vad den valda vägen kommer att kosta. Om två stycken bara säger »hon tvekade« på olika sätt räcker ofta ett.
+5. **Ge tanken en uppgift.** Låt den räkna ut något, pröva en ursäkt, rätta en felaktig tolkning eller avslöja vad personen värderar. Om tanken bara återger dilemmat som läsaren redan förstår kan den strykas.
 
 Detta är konstruktionsfrågor för författaren. Svaren behöver sällan stå utskrivna i prosan.
 
@@ -38,7 +40,19 @@ Portvakten Signe har order att stänga stadsporten innan förföljande ryttare n
 
 Texten innehåller två korta beräkningar. De behövs eftersom Signe först ser en möjlig lösning och sedan inser att den inte längre håller. Hennes tvekan bärs i övrigt av vad hon ser, säger och gör. Exemplet visar en möjlig konstruktion, inte en modell för att varje scen ska innehålla en port, en tidsfrist eller ett räddningsförsök.
 
-Samma princip fungerar i en stillsam scen. En person tänker berätta för sin vän att hon har sökt tjänsten de båda vill ha. Innan hon talar berättar vännen att hon redan tackat nej till ett annat arbete för den här chansen. Valet att tala eller tiga är fortfarande öppet, men kostnaden har ändrats. Här är den andra personens nya upplysning scenens rörelse; ingen yttre nedräkning behövs.
+## Ett exempel utan nya omständigheter
+
+Alva har sin brors bekännelse i handen. Om hon lämnar in den kan en oskyldig man friges, men hennes bror dömas. Om hon bränner den slipper brodern undan. Hon vet redan allt detta när scenen börjar; ingen kommer in och ingenting nytt avslöjas.
+
+> Alva höll brevet framför kaminens öppning. Det behövde bara falla ur handen. Hon tänkte på vad hon skulle säga till sin bror om hon i stället lämnade in det. *Jag hade inget val.*
+>
+> Hon drog brevet från värmen. Den meningen skulle han genomskåda. Hon hade ett val, och hon kunde fortfarande kasta papperet i elden.
+>
+> Alva vek brevet, gick till rådets låsta brevlåda och sköt det genom springan. Det slog mot botten på andra sidan luckan.
+
+**Vad bär tiden här?** Alva närmar sig först den ena handlingen. Hon prövar en förklaring till den person hon sviker och avvisar sin egen ursäkt. Alternativen förändras inte; hennes villighet att ta ansvar för det hon gör förändras. Brevlådan gör valet och dess omedelbara följd synliga. I en annan scen kan personen ha bestämt sig från början och ändå behöva tid för att förmå handen eller rösten att följa beslutet.
+
+Om de uttalade tankarna känns konstruerade, skriv ett första försök **utan inre monolog**: visa att handen för brevet mot elden, stannar och sedan för det till brevlådan. Läs efteråt och fråga om vändningen går att förstå. Lägg bara tillbaka den tanke eller detalj som läsaren faktiskt behöver. Den yttre handlingen kan bära tvekan även när ingenting nytt händer runt personen.
 
 ## När tankarna känns krystade
 
@@ -46,14 +60,14 @@ Fråga inte först: *Vad kan personen tänka mer?* Fråga i stället:
 
 - Vad väntar personen på, och varför?
 - Vad försöker personen göra innan det svåra valet blir nödvändigt?
-- Vilken förändring gör den planen otillräcklig?
+- Om inget förändras utifrån: vilken redan känd följd har personen ännu svårt att acceptera?
 - Vad skulle läsaren kunna se utan tillgång till personens tankar?
 - Vilken **enda** tanke behöver ändå uttalas för att läsaren ska förstå en ny bedömning?
 
-En tanke kan alltså vara mycket enkel: *Hon hinner inte stänga efter dem.* Den låter mindre konstruerad än ett långt resonemang om plikt och medkänsla, eftersom den svarar på något som just hänt i rummet. I andra scener är en längre moralisk tanke nödvändig; ge den då något nytt att göra i förloppet.
+En tanke kan vara en kort beräkning: *Hon hinner inte stänga efter dem.* Den kan också vara en ursäkt som personen själv genomskådar: *Jag hade inget val.* Båda har en uppgift i förloppet. En längre moralisk tanke kan behövas, men låt den tillföra en prövning eller förskjutning och inte bara upprepa de två alternativen.
 
 ## Kontroll vid omskrivning
 
-Markera meningarna mellan att valet uppstår och att personen handlar. Skriv i marginalen vad varje mening **ändrar**: fakta, avstånd, möjlighet, kostnad, plan eller relation. Om flera meningar bara markerar samma känsla, välj den mest träffande. Kontrollera sedan att den första avgörande handlingen går att se konkret och att något händer *på grund av den*.
+Markera meningarna mellan att valet uppstår och att personen handlar. Skriv i marginalen vad varje mening **gör för läsaren**: visar ett alternativ, konkretiserar en kostnad, prövar en ursäkt, för personen närmare handlingen eller ändrar ett faktiskt villkor. Om flera meningar bara markerar samma känsla, välj den mest träffande. Kontrollera sedan att den första avgörande handlingen går att se konkret och att något händer *på grund av den*.
 
-I dina senaste övningar har du ofta byggt ett starkt dilemma. I de första utkasten till *Vadstället* och *Före ridån* inträffade en viktig ny omständighet först efter att beslutet redan hade fattats. Den riktade omskrivningen av *Han får fortfarande gå* visade däremot att du kan låta fysisk förflyttning ge valet tid. Guiden här är ett förslag att pröva i nya scener; den visar ännu inte att tekniken sitter stabilt i första utkast.
+I dina senaste övningar har du ofta byggt ett starkt dilemma. I de första utkasten till *Vadstället* och *Före ridån* inträffade en viktig ny omständighet först efter att beslutet redan hade fattats. Det var ett problem i de scenernas valda förlopp, inte en regel om att varje beslutsögonblick behöver en ny händelse. Den riktade omskrivningen av *Han får fortfarande gå* visade att du kan låta fysisk förflyttning ge valet tid. Guiden här ger också ett sätt att arbeta när omständigheterna förblir desamma.
