@@ -1,6 +1,6 @@
 # Träningslogg – kreativt skrivande
 
-Uppdaterad: 2026-10-05. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+Uppdaterad: 2026-10-08. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
 
 ## 2026-09-01 – Den felaktiga kartan
 
@@ -109,6 +109,14 @@ Uppdaterad: 2026-10-05. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Utfall:** Berg överväger nu en enkel ändring av slutet innan han väljer, och Florences avfärd blir en synlig följd av beskedet. Mellan ultimatum och beslut förändras dock främst Bergs tankar om Florence; rastens slut ger tid men inget nytt villkor som förskjuter valet. Finansieringens betydelse stannar i bakgrunden, vilket gör beslutets kostnad mindre tydlig i stunden. Den riktade omskrivningen avslutas här.
 - **Nivå:** Omskrivningen cirka 13/20 som scen och 12–13/20 i huvudfärdigheten. Stabil nivå fortsatt omkring 12–13/20.
 - **Nästa fokus:** Pröva i en ny scen hur ett öppet val påverkas av förändrade yttre villkor innan huvudpersonen handlar.
+
+## 2026-10-08 – Verkstaden, första utkast
+
+- **Aktivitet:** Första utkast med frivillig outline och diagnostisk respons.
+- **Fokus:** Visa syskonens gemensamma historia och gamla konflikt genom pågående arbete, dialog och undertext.
+- **Utfall:** Drillborren, den misslyckade stolen och brännmärket ger bröderna konkret gemensamt förflutet. Anklagelsen om stulna verktyg får en stark andra betydelse när Malin nämns. När arbetsbänken släpps upphör det gemensamma arbetet att bära scenen; den följande dialogen förklarar konfliktens bakgrund direkt. Scenen slutar med Tobias flykt innan bänken kommit ut, och Malins närvaro utanför saknar förberedelse i prosan.
+- **Nivå:** Första utkastet cirka 12–13/20 som scen och 11–12/20 i huvudfärdigheten. Stabil nivå fortsatt omkring 12–13/20.
+- **Nästa fokus:** En riktad omskrivning av slutdelen där arbetet med bänken fortsätter att påverka samspelet och där konflikten kan förstås utan att hela bakgrunden uttalas.
 
 ## Läsning av utvecklingen
 
