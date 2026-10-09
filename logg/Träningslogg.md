@@ -122,4 +122,4 @@ Uppdaterad: 2026-10-08. Kronologisk sammanställning av tillgängliga loggkort. 
 
 De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Det återkommande problemet är att första utkast ibland skyndar förbi själva vändpunkten, trots stark uppbyggnad. I både Vadstället och Före ridåns första utkast kommer en ny omständighet främst efter att ett beslut redan fattats. Den senaste omskrivningen visar följden av Bergs beslut, men förhållandena omkring honom förändras ännu inte medan valet är öppet. Nästa steg är att pröva detta i en ny scen.
 
-`Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
+`profil/Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.

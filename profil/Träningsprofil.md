@@ -39,4 +39,4 @@ Ge nästa gång en övning i **konkret handling och rumslig tydlighet**: en hän
 
 Variera sedan mellan andra huvudmål, till exempel perspektiv och bakgrundsinformation, dialog och undertext, miljögestaltning eller ett längre sammanhängande utdrag. Välj ordning efter vad texterna visar och vad användaren vill träna; gör ingen mekanisk rotation. Håll fast vid ett huvudmål per uppgift. Återvänd till beslutsögonblicket först när det tillför något till en annan övning eller användaren själv vill pröva det igen.
 
-Efter nästa övning: uppdatera nivåbedömningen bara om prestationen ger ny evidens. Lägg ett nytt kort i `Träningslogg.md` när ett betydelsefullt delmål nås eller övningen avslutas. Gör endast en riktad omskrivning om den tränar ett tydligt problem; gå sedan vidare.
+Efter nästa övning: uppdatera nivåbedömningen bara om prestationen ger ny evidens. Lägg ett nytt kort i `logg/Träningslogg.md` när ett betydelsefullt delmål nås eller övningen avslutas. Gör endast en riktad omskrivning om den tränar ett tydligt problem; gå sedan vidare.
