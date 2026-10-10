@@ -27,6 +27,7 @@ Det här är den aktiva lokala kursmappen. Övningsnummer följer när scenen f�
 | OV-009 | 2026-10-04 | [Före ridån](ovningar/OV-009-fore-ridan/) |
 | OV-010 | 2026-10-05 | [Signalen över dalen](ovningar/OV-010-signalen-over-dalen/) |
 | OV-011 | 2026-10-08 | [Verkstaden](ovningar/OV-011-verkstaden/) |
+| OV-012 | 2026-10-10 | [Hjulet i glipan](ovningar/OV-012-hjulet-i-glipan/) |
 
 ## Bevarade versioner
 
