@@ -1,6 +1,6 @@
 # Träningslogg – kreativt skrivande
 
-Uppdaterad: 2026-10-08. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+Uppdaterad: 2026-10-12. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
 
 ## 2026-09-01 – Den felaktiga kartan
 
@@ -118,8 +118,16 @@ Uppdaterad: 2026-10-08. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Nivå:** Första utkastet cirka 12–13/20 som scen och 11–12/20 i huvudfärdigheten. Stabil nivå fortsatt omkring 12–13/20.
 - **Nästa fokus:** En riktad omskrivning av slutdelen där arbetet med bänken fortsätter att påverka samspelet och där konflikten kan förstås utan att hela bakgrunden uttalas.
 
+## 2026-10-12 – Hjulet i glipan, första utkast
+
+- **Aktivitet:** Första utkast med frivillig outline och diagnostisk respons.
+- **Fokus:** Konkret handling och rumslig tydlighet i en fysisk händelsekedja.
+- **Utfall:** Hjulet som glider av landgången, kärrans tyngd mot kanten och Mittes risk med nästa drag ger en begriplig mekanisk start. Därefter tar dialogen över, medan Fruks spark, kärrans fall och Mittes fall i vattnet passerar utan tillräckligt synliga lägen och mellanled. Kärran hamnar i vattnet, utanför uppgiftens två angivna slutlägen.
+- **Nivå:** Första utkastet cirka 12–13/20 som scen och 11–12/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20.
+- **Nästa fokus:** Riktad omskrivning från Mittes första försök att dra loss kärran till slutet: följ varje avgörande rörelses orsak och omedelbara följd, och låt kärran nå ett av uppgiftens slutlägen.
+
 ## Läsning av utvecklingen
 
-De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Det återkommande problemet är att första utkast ibland skyndar förbi själva vändpunkten, trots stark uppbyggnad. I både Vadstället och Före ridåns första utkast kommer en ny omständighet främst efter att ett beslut redan fattats. Den senaste omskrivningen visar följden av Bergs beslut, men förhållandena omkring honom förändras ännu inte medan valet är öppet. Nästa steg är att pröva detta i en ny scen.
+De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Ett återkommande mönster är att första utkast ibland skyndar förbi det avgörande ögonblicket, trots stark uppbyggnad. Efter användarens önskemål om större variation prövades i Hjulet i glipan konkret handling och rumslig tydlighet. Hindret får en tydlig mekanisk start, men de avgörande rörelserna i slutet behöver göras möjliga att följa. Nästa steg är en avgränsad omskrivning av den händelsekedjan.
 
 `profil/Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
