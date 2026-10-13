@@ -1,6 +1,6 @@
 # Träningslogg – kreativt skrivande
 
-Uppdaterad: 2026-10-12. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+Uppdaterad: 2026-10-13. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
 
 ## 2026-09-01 – Den felaktiga kartan
 
@@ -126,8 +126,16 @@ Uppdaterad: 2026-10-12. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Nivå:** Första utkastet cirka 12–13/20 som scen och 11–12/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20.
 - **Nästa fokus:** Riktad omskrivning från Mittes första försök att dra loss kärran till slutet: följ varje avgörande rörelses orsak och omedelbara följd, och låt kärran nå ett av uppgiftens slutlägen.
 
+## 2026-10-13 – Hjulet i glipan, riktad omskrivning
+
+- **Aktivitet:** Riktad omskrivning av den fysiska händelsekedjan; övningen avslutad.
+- **Fokus:** Lägen, rörelser och omedelbara följder från kärrans fastnande till scenens slut.
+- **Utfall:** Lasten glider, äpplen faller, Mitte försöker lyfta det fria hjulet och Fruks ingriper, vilket ger en tydligare följd av förändrade lägen. Mittes fall har nu en synlig orsak. Fruks fot på det bärande hjulet och den följande sparken har ännu oklar kraft och riktning. Kärran hamnar fortsatt i vattnet i stället för i ett av uppgiftens angivna slutlägen. Huvudfärdigheten har tränats tillräckligt i denna scen; ingen ytterligare omskrivning krävs.
+- **Nivå:** Omskrivningen cirka 13–14/20 som scen och omkring 14/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20; framsteget är visat med riktad hjälp.
+- **Nästa fokus:** Byt huvudmål i nästa övning. Iaktta om fysisk orsak och verkan håller även i ett nytt första utkast.
+
 ## Läsning av utvecklingen
 
-De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Ett återkommande mönster är att första utkast ibland skyndar förbi det avgörande ögonblicket, trots stark uppbyggnad. Efter användarens önskemål om större variation prövades i Hjulet i glipan konkret handling och rumslig tydlighet. Hindret får en tydlig mekanisk start, men de avgörande rörelserna i slutet behöver göras möjliga att följa. Nästa steg är en avgränsad omskrivning av den händelsekedjan.
+De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Ett återkommande mönster är att första utkast ibland skyndar förbi det avgörande ögonblicket, trots stark uppbyggnad. Efter användarens önskemål om större variation prövades konkret handling och rumslig tydlighet i Hjulet i glipan. Omskrivningen gjorde händelsekedjan lättare att följa, men det är ännu inte visat som en stabil färdighet i nya första utkast. Nästa övning får ett annat huvudmål.
 
 `profil/Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
