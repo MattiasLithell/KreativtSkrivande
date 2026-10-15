@@ -1,6 +1,6 @@
 # Träningslogg – kreativt skrivande
 
-Uppdaterad: 2026-10-13. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+Uppdaterad: 2026-10-15. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
 
 ## 2026-09-01 – Den felaktiga kartan
 
@@ -134,8 +134,16 @@ Uppdaterad: 2026-10-13. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Nivå:** Omskrivningen cirka 13–14/20 som scen och omkring 14/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20; framsteget är visat med riktad hjälp.
 - **Nästa fokus:** Byt huvudmål i nästa övning. Iaktta om fysisk orsak och verkan håller även i ett nytt första utkast.
 
+## 2026-10-15 – Regnet i magasinet, första utkast
+
+- **Aktivitet:** Första utkast med frivillig outline och diagnostisk respons.
+- **Fokus:** Konsekvent perspektiv och nödvändig bakgrund genom en pågående inspektion.
+- **Utfall:** Tyres perspektiv hålls genom scenen. Karkovs blankett och frågor om det nymålade fönstret för in tidigare händelser i nuet. De två beviljade reparationsbegärandena nämns men får ingen verkan i samtalet; slutsatsen att Tyre själv kunde laga taket är inte säkert grundad i det som visas. Därför blir det oklart om Karkov förvränger fakta eller har rätt i sak. Rapporten undertecknas inte och ingen omedelbar följd i magasinet visas.
+- **Nivå:** Första utkastet cirka 13/20 som scen och omkring 12/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20.
+- **Nästa fokus:** Riktad omskrivning från invändningen om reparationsbegärandena till rapportens avslut: låt bakgrunden bli ett konkret motargument i nuet och visa hur det påverkar den färdiga rapporten.
+
 ## Läsning av utvecklingen
 
-De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Ett återkommande mönster är att första utkast ibland skyndar förbi det avgörande ögonblicket, trots stark uppbyggnad. Efter användarens önskemål om större variation prövades konkret handling och rumslig tydlighet i Hjulet i glipan. Omskrivningen gjorde händelsekedjan lättare att följa, men det är ännu inte visat som en stabil färdighet i nya första utkast. Nästa övning får ett annat huvudmål.
+De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Ett återkommande mönster är att första utkast ibland skyndar förbi det avgörande ögonblicket, trots stark uppbyggnad. Efter användarens önskemål om större variation prövades konkret handling och rumslig tydlighet i Hjulet i glipan. Omskrivningen gjorde händelsekedjan lättare att följa, men det är ännu inte visat som en stabil färdighet i nya första utkast. Regnet i magasinet prövar nu perspektiv och bakgrundsinformation; det första utkastet håller perspektivet men behöver låta bakgrundsfakta påverka den pågående konflikten tydligare.
 
 `profil/Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
