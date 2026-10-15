@@ -1,8 +1,8 @@
 # Träningsprofil – kreativt skrivande
 
-Senast uppdaterad: 2026-10-13 (konkret handling efter riktad omskrivning; stabil nivåbedömning oförändrad)
+Senast uppdaterad: 2026-10-15 (perspektiv och bakgrundsinformation efter riktad omskrivning; stabil nivåbedömning oförändrad)
 
-Underlag: loggkort från 2026-09-01 till 2026-10-13 och användarens önskemål om större variation 2026-10-09. Bedömningarna är pedagogiska arbetsantaganden, inte mått på allmän författarförmåga.
+Underlag: loggkort från 2026-09-01 till 2026-10-15 och användarens önskemål om större variation 2026-10-09. Bedömningarna är pedagogiska arbetsantaganden, inte mått på allmän författarförmåga.
 
 ## Aktuellt läge
 
@@ -22,7 +22,7 @@ Underlag: loggkort från 2026-09-01 till 2026-10-13 och användarens önskemål 
 | Selektiv gestaltning | Under utveckling | Stenen, batongen och trappan i Ivens scen arbetar med karaktär och dramatisk tid. Kroppsliga markörer, känsloförklaringar och värderande liknelser staplas fortfarande ibland. Välj den detalj som gör mest arbete. |
 | Konkret handling och koreografi | Förbättrad i riktad omskrivning, ännu inte stabil i nya första utkast | I Hjulet i glipan blev lastens förskjutning, Mittes försök och hans fall lättare att följa efter respons. Fruks fot på det bärande hjulet och sparken har fortfarande oklar kraft och riktning. Pröva överföringen i ett annat slags scen utan att göra den till nästa huvudmål. |
 | Dialog och subtext | Delvis styrka, behöver ny prövning | Konflikt och konkreta föremål bär undertext i ”Nyckeln som ingen får be om”. Andra halvan förklarar mer än den behöver. Rasks långa redogörelse belastar samtalet med mycket information. |
-| POV och exposition | Otillräckligt prövat | POV-bytet mellan Joran och Sera hade en funktion men behövde markeras tydligare. Den äldre frågan om hur gemensam bakgrund får plats utan onaturlig dialog är fortfarande relevant. |
+| POV och exposition | Under utveckling; konsekvent perspektiv visat i ett nytt första utkast, bakgrundens verkan förbättrad med stöd | I Regnet i magasinet hålls Tyres perspektiv i första utkastet och omskrivningen. I den riktade versionen påverkar reparationsbegärandena konflikten, men reglerna förklaras främst av Karkov och arbetet i magasinet blir bakgrund. Pröva överföringen utan stöd i en ny scen. |
 
 ## Mönster att hålla isär
 
@@ -36,6 +36,8 @@ Underlag: loggkort från 2026-09-01 till 2026-10-13 och användarens önskemål 
 **Ändrat upplägg 2026-10-09:** Användaren vill ha andra uppgifter än återkommande övningar om att låta något hända medan ett val ännu är öppet. Frågan om beslutsögonblicket finns kvar som en iakttagelse i profilen, men ska inte vara standardmål eller styra responsen på andra uppgifter.
 
 **Efter Hjulet i glipan 2026-10-13:** Övningen i konkret handling avslutades efter en riktad omskrivning. Följden av handlingar blev tydligare, men mekaniken i Fruks sista ingripande är inte helt klar. Kräv ingen tredje version för denna scen. Låt nästa övning ha ett annat huvudmål och kontrollera rumslig tydlighet som en sekundär iakttagelse i ett nytt första utkast.
+
+**Efter Regnet i magasinet 2026-10-15:** Ett nytt första utkast höll perspektivet konsekvent. Den riktade omskrivningen gjorde bakgrunden mer verksam i ansvarsfrågan, men slutvillkoret med färdig rapport och omedelbar följd återstår. Be endast om en kort avslutande komplettering, inte en ny fullständig version. Därefter kan en annan huvudfärdighet väljas; perspektivbunden bakgrundsinformation får prövas självständigt senare.
 
 Variera sedan mellan andra huvudmål, till exempel perspektiv och bakgrundsinformation, dialog och undertext, miljögestaltning eller ett längre sammanhängande utdrag. Välj ordning efter vad texterna visar och vad användaren vill träna; gör ingen mekanisk rotation. Håll fast vid ett huvudmål per uppgift. Återvänd till beslutsögonblicket först när det tillför något till en annan övning eller användaren själv vill pröva det igen.
 

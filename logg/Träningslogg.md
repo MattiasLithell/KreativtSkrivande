@@ -142,8 +142,16 @@ Uppdaterad: 2026-10-15. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Nivå:** Första utkastet cirka 13/20 som scen och omkring 12/20 i huvudfärdigheten. Stabil nivå tills vidare omkring 12–13/20.
 - **Nästa fokus:** Riktad omskrivning från invändningen om reparationsbegärandena till rapportens avslut: låt bakgrunden bli ett konkret motargument i nuet och visa hur det påverkar den färdiga rapporten.
 
+## 2026-10-15 – Regnet i magasinet, riktad omskrivning
+
+- **Aktivitet:** Ny version av samtalet och slutet efter respons på första utkastet.
+- **Fokus:** Låta tidigare reparationsbegäranden påverka den pågående ansvarsfrågan genom Tyres perspektiv.
+- **Utfall:** Karkov bemöter nu begärandena med en skillnad mellan arbetskraft och material, och den utbytta takbalken ger hans fråga om Tyres tillgång till taket en synlig grund. Tyres insikt att han inte tänkte på magasinets tak gör konflikten mindre ensidig. Reglernas innebörd framgår främst av Karkovs förklaring, medan arbetet med säden försvinner ur den pågående scenen. Karkov hotar med domstol men färdigställer inte rapporten, så uppgiftens konkreta slutvillkor återstår.
+- **Nivå:** Omskrivningen cirka 14/20 som scen och 13–14/20 i huvudfärdigheten med riktad hjälp. Stabil nivå fortsatt omkring 12–13/20.
+- **Nästa fokus:** En kort avslutande komplettering som visar den färdiga rapporten och dess omedelbara följd i magasinet. Ingen ytterligare fullständig omskrivning behövs.
+
 ## Läsning av utvecklingen
 
-De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Ett återkommande mönster är att första utkast ibland skyndar förbi det avgörande ögonblicket, trots stark uppbyggnad. Efter användarens önskemål om större variation prövades konkret handling och rumslig tydlighet i Hjulet i glipan. Omskrivningen gjorde händelsekedjan lättare att följa, men det är ännu inte visat som en stabil färdighet i nya första utkast. Regnet i magasinet prövar nu perspektiv och bakgrundsinformation; det första utkastet håller perspektivet men behöver låta bakgrundsfakta påverka den pågående konflikten tydligare.
+De tidiga övningarna tränade trovärdiga motargument och tydligare orsakskedjor. Flera senare omskrivningar gjorde karaktärernas verkliga alternativ synliga. Ett återkommande mönster är att första utkast ibland skyndar förbi det avgörande ögonblicket, trots stark uppbyggnad. Efter användarens önskemål om större variation prövades konkret handling och rumslig tydlighet i Hjulet i glipan. Omskrivningen gjorde händelsekedjan lättare att följa, men det är ännu inte visat som en stabil färdighet i nya första utkast. I Regnet i magasinet hölls perspektivet redan i första utkastet; den riktade omskrivningen gav bakgrunden tydligare verkan i konflikten. Förmågan att göra detta utan stöd behöver prövas i en ny scen.
 
 `profil/Träningsprofil.md` innehåller den aktuella bedömningen. Nya loggkort förs in här efter avslutade övningar eller betydelsefulla delmål; profilen ändras när ny prestation motiverar det.
