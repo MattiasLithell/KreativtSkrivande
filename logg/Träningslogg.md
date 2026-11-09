@@ -1,6 +1,6 @@
 # Träningslogg – kreativt skrivande
 
-Uppdaterad: 2026-10-15. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
+Uppdaterad: 2026-11-09. Kronologisk sammanställning av tillgängliga loggkort. Anteckningarna är kortade för att göra utvecklingen överskådlig; nivåer återger bedömningen vid respektive tillfälle. Datum följer loggkorten. Tid registreras bara när användaren vill ange den.
 
 ## 2026-09-01 – Den felaktiga kartan
 
@@ -149,6 +149,14 @@ Uppdaterad: 2026-10-15. Kronologisk sammanställning av tillgängliga loggkort. 
 - **Utfall:** Karkov bemöter nu begärandena med en skillnad mellan arbetskraft och material, och den utbytta takbalken ger hans fråga om Tyres tillgång till taket en synlig grund. Tyres insikt att han inte tänkte på magasinets tak gör konflikten mindre ensidig. Reglernas innebörd framgår främst av Karkovs förklaring, medan arbetet med säden försvinner ur den pågående scenen. Karkov hotar med domstol men färdigställer inte rapporten, så uppgiftens konkreta slutvillkor återstår.
 - **Nivå:** Omskrivningen cirka 14/20 som scen och 13–14/20 i huvudfärdigheten med riktad hjälp. Stabil nivå fortsatt omkring 12–13/20.
 - **Nästa fokus:** En kort avslutande komplettering som visar den färdiga rapporten och dess omedelbara följd i magasinet. Ingen ytterligare fullständig omskrivning behövs.
+
+## 2026-11-09 – Den perfekta värden, första utkast
+
+- **Aktivitet:** Första utkast och diagnostisk respons. Övningens huvudgrepp visat.
+- **Fokus:** Låta läsaren upptäcka glappet mellan en jagberättares självbild och effekten av hans handlingar.
+- **Utfall:** Tyke läser gästernas reaktioner som värme, sjukdom eller missade köttbitar. Serveringen visar hur hans uppriktiga omsorg får motsatt effekt. Frågorna om Susanne för över samma mönster till ett annat område, men Berndtbrandts redogörelse och hotet om länsman tar fokus från måltiden. Dörrstängningen och de skallrande glasen ger Tyke sista ordet om sin egen precision. Hans omdöme om bjudningen som helhet förblir indirekt.
+- **Nivå:** Cirka 14–15/20 i huvudfärdigheten i detta första utkast. Den stabila nivån omprövas inte utifrån en enda scen.
+- **Nästa fokus:** I en ny scen, eller vid en frivillig bearbetning av slutet, låt läsaren dra slutsatsen genom pågående handling och berättarens egen tolkning.
 
 ## Läsning av utvecklingen
 
