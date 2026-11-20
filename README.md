@@ -33,4 +33,5 @@ Det här är den aktiva lokala kursmappen. Övningsnummer följer när scenen f�
 
 `scen-sparad.docx` är den version som fanns på disk vid omflyttningen. Namnet påstår inte att den är ett första utkast. `scen-samlad.docx` är en oförändrad originalfil med märkta utkast; `scen-v1.docx` och `scen-v2.docx` är uttagna läsversioner. Äldre utkast som redan hade skrivits över har inte återskapats. Historiska uppgiftsformuleringar skapas inte ur logganteckningar.
 
-För nya övningar: skapa `uppgift.docx` i nästa numrerade mapp och spara varje inlämnad omskrivning som `scen-v1.docx`, `scen-v2.docx` och så vidare. Lägg vid behov en kort slutsats i loggen; själva kritiken och följdfrågorna stannar i chatten.
+För nya övningar: skapa `uppgift.docx` i nästa numrerade mapp och spara varje inlämnad omskrivning som `scen-v1.docx`, `scen-v2.docx` och så vidare. Lägg vid behov en kort slutsats i loggen; själva kritiken och följdfrågorn
+stannar i chatten.
