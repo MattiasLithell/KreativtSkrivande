@@ -1,18 +1,28 @@
 # Kreativt skrivande
 
-Det här är den aktiva lokala kursmappen. Övningsnummer följer när scenen först skrevs, inte när filen senast ändrades. Kritik ges i chatten och sparas inte som separata dokument.
+Det här är den aktiva lokala kursmappen. Scenövningarnas nummer följer när scenen först skrevs, inte när filen senast ändrades. Kritik ges i chatten och sparas inte som separata dokument.
+
+## Två oberoende träningsspår
+
+| Spår | Underlag och uppföljning |
+| --- | --- |
+| **A – Scenhantverk** | [Träningsprofil](profil/Träningsprofil.md), [träningslogg](logg/Träningslogg.md) och scenövningar i `ovningar/`. |
+| **B – Plotgenerering och kristen filosofi** | [Kursplan](resurser/Plotgenerering-och-kristen-filosofi.md), [egen träningsprofil](profil/Träningsprofil-Plotgenerering.md) och [egen träningslogg](logg/Träningslogg-Plotgenerering.md). |
+
+Spåren kan tränas var för sig. En egen intrig från B kan senare användas i A, men nivåbedömningar och resultat följs separat. Plotspårets nivå är ännu inte bedömd. Gemensamma arbetsregler och val av spår finns i [AGENTS.md](AGENTS.md); Writing Coach har pedagogiskt huvudansvar för båda.
 
 ## Mappar
 
 - `ovningar/`: en mapp per scen. Nya uppgifter och inlämnade versioner sparas som `.docx`.
-- `profil/`: aktuell träningsprofil.
-- `logg/`: kronologiska loggkort.
-- `lexikon/` och `resurser/`: gestaltningstekniker och undervisningsmaterial.
+- `profil/`: en separat träningsprofil per spår.
+- `logg/`: separata kronologiska träningsloggar för A och B.
+- `lexikon/` och `resurser/`: gestaltningstekniker, undervisningsmaterial och kursplanen för B.
+- `texter/`: valfri plats för plotuppgifter och versionsbevarat intrigarbete i B; skapas när ett arbetsdokument önskas.
 - `.agents/skills/`: återkommande arbetsflöden inspirerade av Calliope, anpassade till denna kurs.
 - `mallar/`: mall för nya uppgifter.
 - `verktyg/`: övriga dokument som inte är övningar.
 
-## Övningar i kronologisk ordning
+## Scenövningar i kronologisk ordning
 
 | Nummer | Första datum | Scen |
 | --- | --- | --- |
@@ -33,5 +43,5 @@ Det här är den aktiva lokala kursmappen. Övningsnummer följer när scenen f�
 
 `scen-sparad.docx` är den version som fanns på disk vid omflyttningen. Namnet påstår inte att den är ett första utkast. `scen-samlad.docx` är en oförändrad originalfil med märkta utkast; `scen-v1.docx` och `scen-v2.docx` är uttagna läsversioner. Äldre utkast som redan hade skrivits över har inte återskapats. Historiska uppgiftsformuleringar skapas inte ur logganteckningar.
 
-För nya övningar: skapa `uppgift.docx` i nästa numrerade mapp och spara varje inlämnad omskrivning som `scen-v1.docx`, `scen-v2.docx` och så vidare. Lägg vid behov en kort slutsats i loggen; själva kritiken och följdfrågorn
+För nya scenövningar: skapa `uppgift.docx` i nästa numrerade mapp och spara varje inlämnad omskrivning som `scen-v1.docx`, `scen-v2.docx` och så vidare. Lägg vid behov en kort slutsats i loggen; själva kritiken och följdfrågorna
 stannar i chatten.
