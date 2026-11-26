@@ -14,7 +14,7 @@
 
 | Färdighet | Nuläge | Första prövning / belägg att söka |
 | --- | --- | --- |
-| Idégenerering och kreativ flexibilitet | Ej bedömd | Flera **väsentligt olika** händelseförlopp från en och samma utgångspunkt, inte ytliga varianter. |
+| Idégenerering och kreativ flexibilitet | Tydlig variation i första prövningen 2026-11-26. Stabil nivå ännu inte bedömd. | Fem synopsis med fyra typer av inledande beslut. Samma efterskänkning ger två olika förlopp när fogden i ett av dem också agerar för att täcka förlusten. |
 | Premiss och konflikt | Ej bedömd | En aktiv huvudperson, motstående intressen och insatser som får verkliga följder. |
 | Orsak och verkan | Ej bedömd | Beslut orsakar nästa problem; händelser följer inte bara på varandra. |
 | Komplikationer och vändpunkter | Ej bedömd | Logiska men oväntade följder; avslöjanden ändrar innebörden av det föregående. |
@@ -32,6 +32,4 @@
 
 ## Nästa pedagogiska steg
 
-Genomför en **första diagnostisk plotövning** med ett tydligt slutvillkor och utan tidsgräns. Låt användaren skapa **fem väsentligt olika händelseförlopp ur en gemensam premiss**. Tillför inte färdiga intriglösningar. Bedöm i första hand kreativ flexibilitet och om förslagen faktiskt skiljer sig åt. Gör sedan en avgränsad fördjupning i orsak/verkan eller filosofisk konsekvens utifrån vad prestationerna visar.
-
-När den första plotövningen är klar: skriv ett loggkort i [`logg/Träningslogg-Plotgenerering.md`](../logg/Träningslogg-Plotgenerering.md) och uppdatera denna profil utifrån faktisk prestation.
+Fördjupa orsak och verkan i synopsis 1 från den första plotövningen. Gör övergången från familjens enskilda vrede till den första gemensamma handlingen begriplig genom ett konkret motiv och en följd. Behåll de fem förloppen som underlag för den preliminära bedömningen av kreativ flexibilitet.

@@ -26,4 +26,11 @@ Anteckna tid endast om användaren uttryckligen vill det. Om ett fält inte är 
 
 ## Genomförda övningar
 
-*Inga ännu.*
+### 2026-11-26 – Vem får efterskänka en skuld
+
+- **Aktivitet:** Första utkast med fem korta synopsis och diagnostisk respons.
+- **Filosofiskt tema:** Barmhärtighet, rättvisa och ansvar för skuld.
+- **Huvudfärdighet:** Kreativ flexibilitet från en gemensam premiss.
+- **Utfall:** Fyra typer av inledande beslut och fem förlopp. Två börjar med efterskänkning och skiljs åt när fogden i det femte försöker försörja fosterfamiljen i hemlighet. I det fjärde formar släktingens egenintresse vägen till en lagändring. Flera slut hoppar över den reaktion som gör att ett enskilt beslut får stora följder.
+- **Nivå:** Dramaturgi: tydlig variation visad i detta första försök, ojämna orsakssamband. Filosofisk integration: tydligast i den femte versionen, där omsorg och hemlighållande leder till stöld och bitterhet. Stabil nivå ännu inte bedömd.
+- **Nästa fokus:** Fyll i det saknade orsakssambandet mellan familjens vrede och det första kollektiva agerandet i synopsis 1.
